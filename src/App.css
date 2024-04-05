@@ -1,0 +1,24 @@
+.container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  padding-left: 100vh;
+  margin-bottom: 20px;
+}
+
+.h2{
+  margin-bottom: 20px;
+  color: rgb(76, 106, 194);
+}
+
+.btn{
+margin-bottom: 20px;
+
+}
+
+.btn:hover {
+  background-color: rgb(55, 55, 180);
+  cursor: pointer;
+}
